@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="P.PNG" alt="0x">
+  <img src="XonyxGhostBanner.png" alt="0x">
 </p>
